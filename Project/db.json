@@ -1,0 +1,188 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "admin": [
+    {
+      "username": "santhosh",
+      "password1": "Santy@007"
+    }
+  ],
+  "users": [
+    {
+      "firstname": "Harigokul",
+      "Phoneno": "8610209533",
+      "email": "hari007@gmail.com",
+      "password": "Hari@123",
+      "confirm": "Hari@123",
+      "address": "salem-15\n",
+      "id": 1
+    },
+    {
+      "firstname": "Manikandan",
+      "Phoneno": "9361798897",
+      "email": "manikandan@gmail.com",
+      "password": "Mani@777",
+      "confirm": "Mani@777",
+      "address": "Salem",
+      "id": 2
+    },
+    {
+      "firstname": "santhosh",
+      "Phoneno": "6380426608",
+      "email": "santy001@gmail.com",
+      "password": "Santy@111",
+      "confirm": "Santy@111",
+      "address": "19/1,mettu street no.2,thiruchengode,namakal-637211",
+      "id": 3,
+      "registerstatus": "success"
+    },
+    {
+      "firstname": "Subramani",
+      "Phoneno": "8610209535",
+      "email": "crazysanty007@gmail.com",
+      "password": "Santy@123",
+      "confirm": "Santy@123",
+      "address": "salem",
+      "id": 4
+    }
+  ],
+  "account": [
+    {
+      "Pname": "srinivasan",
+      "pan": "895623425",
+      "aadhar": "444621649461",
+      "id": 1
+    },
+    {
+      "Pname": "Sidhuraj H",
+      "pan": "965874596584",
+      "aadhar": "695869587458",
+      "id": 2
+    },
+    {
+      "Pname": "Muruganand",
+      "pan": "7894561374",
+      "aadhar": "721082458956",
+      "id": 3
+    }
+  ],
+  "bankaccount": [
+    {
+      "bankname": "ELMS Bank",
+      "branch": "Salem",
+      "accountnumber": "6360150001",
+      "ifsccode": "ELMS0000ES1",
+      "micrcode": "636006001",
+      "email": "hari007@gmail.com",
+      "status": "false",
+      "id": 1
+    },
+    {
+      "bankname": "ELMS Bank",
+      "branch": "Salem",
+      "accountnumber": "6360150002",
+      "ifsccode": "ELMS0000ES1",
+      "micrcode": "636006001",
+      "email": "manikandan@gmail.com",
+      "status": "false",
+      "id": 2
+    },
+    {
+      "bankname": "ELMS Bank",
+      "branch": "Salem",
+      "accountnumber": "6360150003",
+      "ifsccode": "ELMS0000ES1",
+      "micrcode": "636006001",
+      "email": "santy001@gmail.com",
+      "status": "false",
+      "id": 3
+    }
+  ],
+  "personalInfo": [
+    {
+      "firstname": "santhosh",
+      "lastname": "M",
+      "dob": "2002-01-24",
+      "age": 22,
+      "fathername": "Muruganand",
+      "mothername": "Sasikala",
+      "fatheroccupation": "Astrologer",
+      "motheroccupation": "Homemaker",
+      "ctc": 400000,
+      "sex": "Female",
+      "bloodgrp": "o+",
+      "Phoneno": "6380426608",
+      "address": "19/1,mettu street no-2,thiruchengode,namakkal-637221",
+      "id": 2
+    }
+  ],
+  "studyInfo": [
+    {
+      "sslcregNo": "15896458",
+      "hscregNo": "7894611",
+      "collegeregNo": "1913001",
+      "SSLCschoolName": "Avvai ksr metric high school",
+      "HSCschoolName": "vidhiya vikas hr sec school",
+      "SSLCMark": "471",
+      "HSCMark": "477",
+      "SSLCyearOfPassing": "2017",
+      "HSCyearOfPassing": "2019",
+      "CLGyearOfPassing": "2024",
+      "SSLCmarksheetNo": "789456",
+      "HSCmarksheetNo": "415263",
+      "SSLCDistrict": "Namakkal",
+      "HSCDistrict": "namakkal",
+      "CLGDistrict": "namakal",
+      "SSLCPercentage": "94",
+      "HSCPercentage": "79",
+      "course": "engineering",
+      "clgName": "KSR COLLEGE OF ENGINEERING",
+      "sem": "3",
+      "pincode": "637015",
+      "deptName": "CSE",
+      "cgpa": "88",
+      "currentYear": "2",
+      "backlogs": "NA",
+      "address": "ksr kalvi nager,tiruchengode",
+      "id": 2
+    }
+  ],
+  "accFormInfo": [
+    {
+      "bankname": "ELMS",
+      "acccountnum": "6360150004",
+      "micr": "636006001",
+      "Amount": "80000",
+      "branchname": "Gugai",
+      "ifsc": "ELMS0000ES1",
+      "phone": "6380426608",
+      "original": "https://drive.google.com/file/d/1C-AB_rJYHxhAYe5WTskHUqp-DWyGbErh/view?ts=6492d389",
+      "id": 2
+    }
+  ],
+  "ValidId": [
+    {
+      "validID": 3,
+      "registerstatus": "success",
+      "id": 2
+    }
+  ],
+  "approveStatus": [
+
+  ]
+}

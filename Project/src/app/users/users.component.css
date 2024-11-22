@@ -1,0 +1,85 @@
+/* Styles for app-adminHeader */
+app-adminHeader {
+  /* Add your styles here */
+}
+
+/* Styles for searchBar */
+.searchBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  width: 90%;
+  margin-left: 5%;
+}
+
+/* Styles for search */
+.search {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles for input fields */
+input[type="search"] {
+  margin-right: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+/* Styles for buttons */
+button {
+  padding: 5px 10px;
+  background-color:#185889;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+/* Styles for title */
+.title h1 {
+  font-size: 28px;
+  margin: 0;
+}
+
+/* Styles for table */
+table {
+  width: 90%;
+  border-collapse: collapse;
+  margin-left: 5%;
+}
+
+/* Styles for table headings */
+th {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: left;
+}
+
+/* Styles for table data */
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Styles for loanStatus button */
+#loanStatus a {
+  text-decoration: none;
+  color: #fff;
+}
+
+#loanStatus  {
+  padding: 5px 10px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+/* Styles for delete button */
+#delete  {
+  padding: 5px 10px;
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
